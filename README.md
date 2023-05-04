@@ -37,4 +37,4 @@
 
 🔓  Estou buscando a primeira oportunidade profissional que me permita aprender, desenvolver e promover tecnologias.
 
-![Profile views](https://gpvc.arturio.dev/VanessaNMenezes)
+
