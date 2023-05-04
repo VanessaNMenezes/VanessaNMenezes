@@ -36,3 +36,5 @@
 💡 Sendo assim, estou aprofundando meus conhecimentos em desenvolvimento Front-End, com o objetivo de desenvolver projetos com funcionamento técnico, organização estrutural das páginas, como também gerar valor ao conteúdo acessado.
 
 🔓  Estou buscando a primeira oportunidade profissional que me permita aprender, desenvolver e promover tecnologias.
+
+![Profile views](https://gpvc.arturio.dev/[VanessaNMenezes])
