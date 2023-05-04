@@ -1,4 +1,6 @@
 🔑  Olá, seja bem-vindo (a)!
+
+![](hello.gif)
  
 
 🎓  Formada em fisioterapia, pós-graduada em ABA, estou em transição de carreira para a área de tecnologia.
