@@ -3,7 +3,8 @@
 
 🎓  Formada em fisioterapia, pós-graduada em ABA, estou em transição de carreira para a área de tecnologia.
 
-📒  Atualmente sou aluna do Bootcamp de Desenvolvimento Web da Laboratória, e estou cursando bacharelado em Tecnologia da Informação. <br/>
+📒  Atualmente sou aluna do Bootcamp de Desenvolvimento Web da @Laboratoria ![image](https://user-images.githubusercontent.com/100978888/236348871-3816bb73-2082-4ae1-805d-7aa2f2c15583.png)
+ e estou cursando bacharelado em Tecnologia da Informação. <br/>
 
 
 
