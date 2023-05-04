@@ -1,8 +1,9 @@
 🔑  Olá, seja bem-vindo (a)!
 
-![](hello.gif)
- 
 
+ ![Hello](https://user-images.githubusercontent.com/100978888/236351165-b44607dc-dc9c-4a48-b1f7-3a5f16fb5e0b.gif)
+ 
+ 
 🎓  Formada em fisioterapia, pós-graduada em ABA, estou em transição de carreira para a área de tecnologia.
 
 📒  Atualmente sou aluna do Bootcamp de Desenvolvimento Web da Laboratoria e estou cursando bacharelado em Tecnologia da Informação. <br/>
