@@ -1,7 +1,6 @@
 🔑  Olá, seja bem-vindo (a)!
 
-
- ![Hello](https://user-images.githubusercontent.com/100978888/236351500-b3cd4e93-f95b-432d-b2f4-b27f59d73daa.gif)
+![Hello](https://user-images.githubusercontent.com/100978888/236565112-52052c65-6d01-4407-892b-4123e66bffe4.gif)
 
  
 🎓  Formada em fisioterapia, pós-graduada em ABA, estou em transição de carreira para a área de tecnologia.
