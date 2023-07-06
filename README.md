@@ -5,7 +5,7 @@
  
 ##### 🎓  Formada em fisioterapia, pós-graduada em ABA, estou em transição de carreira para a área de tecnologia. 
 
-##### 📒  Atualmente estou cursando bacharelado em Tecnologia da Informação (3° semestre) e sou formada como Desenvolvedora Web Jr pelo Bootcamp da Laboratoria. <br/>
+##### 📒  Atualmente estou cursando bacharelado em Tecnologia da Informação e sou formada como Desenvolvedora Web Jr pelo Bootcamp da Laboratoria. <br/>
 
 
 ###  <div align="center"> Ferramentas e linguagens que estou aprendendo e me desenvolvendo: </div> 
