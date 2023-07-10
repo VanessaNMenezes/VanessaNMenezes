@@ -3,7 +3,7 @@
 ### <div align="center"> ![Hello](https://user-images.githubusercontent.com/100978888/236565112-52052c65-6d01-4407-892b-4123e66bffe4.gif) </div>
 
  
-##### 🎓  Formada em fisioterapia, pós-graduada em ABA, estou em transição de carreira para a área de tecnologia. 
+##### 🎓  Formada em fisioterapia, pós-graduada em ABA, realizei transição de carreira para a área de tecnologia. 
 
 ##### 📒  Atualmente estou cursando bacharelado em Tecnologia da Informação e sou formada como Desenvolvedora Web Jr pelo Bootcamp da Laboratoria. <br/>
 
